@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="startQuizText">"شروع کرنے کے لیے اسٹارٹ کوئز بٹن پر کلک کریں۔ "</string>
+    <string name="trueFalseError">"براہ کرم پہلے کوئز شروع کریں! "</string>
+    <string name="button">جھوٹا</string>
+    <string name="button2">"سچ ہے۔ "</string>
+    <string name="button3">"کوئز شروع کریں۔ "</string>
+    <string name="button3Restart">کوئز دوبارہ شروع کریں۔</string>
+    <string name="question2">"ٹورنٹو کینیڈا کا دارالحکومت ہے۔ "</string>
+    <string name="question3">بینف وینکوور سے بہتر ہے۔</string>
+    <string name="question4">"شینک نے کڈ کو ایلبالف پر پکایا "</string>
+    <string name="question5">امریکہ میں 50 ریاستیں ہیں۔</string>
+    <string name="question6">"اس ایپ میں ایک خصوصیت/فنکشن موجود نہیں ہے۔ "</string>
+    <string name="averageOption">اوسط حاصل کریں۔</string>
+    <string name="numberOfQuestions">"سوالات کی تعداد کو تبدیل کریں۔ "</string>
+    <string name="deleteSaves">"تمام محفوظ شدہ نتائج کو حذف کریں۔ "</string>
+    <string name="changeNumTitle">سوالات کی تعداد میں تبدیلی</string>
+    <string name="changeNumMessage">"آپ کوئز کے لیے کتنے سوالات چاہتے ہیں؟ "</string>
+    <string name="openResultsError">"آپ کے پاس کوئی نتائج محفوظ نہیں ہیں! "</string>
+    <string name="openResultsMessage">"آپ کے درست جوابات/سوالات کی کل تعداد = "</string>
+    <string name="completionTitle">"مبارک ہو! "</string>
+    <string name="completionMessagePart1">"آپ نے جواب دیا ہے۔ "</string>
+    <string name="completionMessagePart2">"صحیح طریقے سے سوالات "</string>
+    <string name="completionMessagePart3">سوالات</string>
+    <string name="okay">"ٹھیک ہے "</string>
+    <string name="right">درست</string>
+    <string name="wrong">غلط</string>
+    <string name="cancel">"منسوخ کریں۔ "</string>
+    <string name="save">"محفوظ کریں۔ "</string>
+    <string name="question7">"ایپ کا مرکزی رنگ تھیم پیلا ہے۔ "</string>
+</resources>
